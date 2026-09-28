@@ -5,5 +5,6 @@ public class sum {
         int c = a + b;
         System.out.println("Sum of a and b is: " + c);
         System.out.println("Hello GitHub");
+        System.out.println("Hello Git");
     }
 }
